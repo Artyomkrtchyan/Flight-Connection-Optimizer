@@ -163,5 +163,6 @@ Modified Dijkstra to compute all reachable destinations within a specified cost 
 ## Authors
 
 Artyom Mkrtchyan and Mane Mazmandyan
+
 Faculty of Computer Science  
 2026
